@@ -9,7 +9,7 @@ USE company;
 /* Creates the Department Table */
 CREATE TABLE Department (
     id INTEGER PRIMARY KEY AUTO_INCREMENT,
-    depo_name VARCHAR(30) NOT NULL
+    department_name VARCHAR(30) NOT NULL
 );
 
 /* Creates the Role table */

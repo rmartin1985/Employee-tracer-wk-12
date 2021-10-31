@@ -1,7 +1,7 @@
 /* File to seed the data into the database */
 
 /* Inserting initial values for the Department table */
-INSERT INTO Department(depo_name)
+INSERT INTO Department(department_name)
 VALUES ("Sales"), ("Engineering"), ("Finance"), ("Legal");
 
 /* Insterting initial values for the Role table */
