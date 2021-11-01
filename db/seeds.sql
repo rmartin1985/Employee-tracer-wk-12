@@ -10,4 +10,4 @@ VALUES("Sales Lead", 100000, 1), ("Salesperson", 80000, 1), ("Lead Engineer", 15
 
 /* Inserting intial values for the Employee Table */
 INSERT INTO Employee(first_name, last_name, role_id, manager_id)
-VALUES("John", "Doe", 1, null), ("Mike", "Chan", 2, 1), ("Ashley", "Rodriquez", 3, null), ("Kevin", "Tupik", 4, 3), ("Rick", "Martin", 5, null), ("Malia", "Brown", 6, 5), ("Sarah", "Lourd", 7, null), ("Tom", "Allen", 8, 7);
+VALUES("John", "Doe", 1, null), ("Ashley", "Rodriquez", 3, null), ("Rick", "Martin", 5, null), ("Sarah", "Lourd", 7, null), ("Mike", "Chan", 2, 1), ("Kevin", "Tupik", 4, 3), ("Malia", "Brown", 6, 5), ("Tom", "Allen", 8, 7);
